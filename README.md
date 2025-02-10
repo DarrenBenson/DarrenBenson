@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Darren
 
 ## 🎯 Who Am I?
-I'm a hands-on Product Engineering Leader and lifelong tech enthusiast who loves building cool stuff. Whether it's trying out things to help my teams, trying out new software, or tinkering with personal projects, I'm always exploring new ways to push technology forward. I believe AI is to software what the moon landing was to aviation—just the beginning of something massive! 🚀
+I'm an Engineering Leader with a hands-on background and a lifelong tech enthusiast who loves building cool stuff. Whether it's experimenting with new tools to help my teams, testing out the latest software, or tinkering with personal projects, I'm always looking for ways to make technology useful to people. I'm enjoying the AI journey and believe is the next great tool for amplifying human creativity and solving problems we haven’t even imagined yet!
 
 ## 🚀 What I'm Up To
 - Tinkering with Python and AI
