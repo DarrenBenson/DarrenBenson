@@ -23,7 +23,7 @@ Currently geeking out about:
 ## ✨ Cool Stuff I've Built
 - bin2art - Transform Retro Code into Digital Art. It's a little tool to create some digital assets I used for some NFTs. 
 - 3D-Shooter - A simple 3D shooter game made with Unity. It's was a fun way to pass the time and a great way to learn the Unity engine.
-- URLShortner - A simple URL shortener I built to whilst learning about GitHub.
+- URLMin - A simple URL shortener I built to whilst learning about GitHub.
 
 ## ✨ Featured Projects
 <a href="https://github.com/DarrenBenson/bin2art">
@@ -36,8 +36,7 @@ Currently geeking out about:
 ## 🤝 Let's Connect!
 I love meeting fellow tech enthusiasts! Find me on:
 - [LinkedIn](https://www.linkedin.com/in/darrenkbenson/)
-- [Twitter](Your Twitter link)
-- [Portfolio](Your portfolio website)
+- [Portfolio](https://benson.games)
 
 ## 💬 Say Hello!
 - 🤝 Always excited to collaborate on projects
