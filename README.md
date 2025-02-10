@@ -36,8 +36,7 @@ Currently geeking out about:
 ## 🤝 Let's Connect!
 I love meeting fellow tech enthusiasts! Find me on:
 - [LinkedIn](https://www.linkedin.com/in/darrenkbenson/)
-- [Twitter](Your Twitter link)
-- [Portfolio](Your portfolio website)
+- [Portfolio](https://benson.games)
 
 ## 💬 Say Hello!
 - 🤝 Always excited to collaborate on projects
